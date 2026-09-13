@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650">
+<rect width="1200" height="650" rx="28" fill="#111827"/>
+<rect x="34" y="34" width="1132" height="582" rx="22" fill="#f8fafc"/>
+<text x="70" y="92" fill="#172033" font-family="Arial" font-size="30" font-weight="700">Tata Motors — Financial Analysis</text>
+<text x="70" y="124" fill="#64748b" font-family="Arial" font-size="16">Power BI Dashboard • Financial Performance &amp; Trends</text>
+<g font-family="Arial">
+<rect x="70" y="165" width="240" height="100" rx="16" fill="#e8eef8"/><text x="92" y="198" fill="#64748b" font-size="14">REVENUE</text><text x="92" y="238" fill="#172033" font-size="28" font-weight="700">₹ 4.3T</text>
+<rect x="330" y="165" width="240" height="100" rx="16" fill="#e8eef8"/><text x="352" y="198" fill="#64748b" font-size="14">PROFIT TREND</text><text x="352" y="238" fill="#172033" font-size="28" font-weight="700">+18.6%</text>
+<rect x="590" y="165" width="240" height="100" rx="16" fill="#e8eef8"/><text x="612" y="198" fill="#64748b" font-size="14">KEY METRICS</text><text x="612" y="238" fill="#172033" font-size="28" font-weight="700">12+</text>
+</g>
+<rect x="70" y="300" width="720" height="250" rx="18" fill="#fff" stroke="#dbe4ef"/>
+<text x="96" y="340" fill="#172033" font-family="Arial" font-size="18" font-weight="700">Financial Trend Overview</text>
+<polyline points="110,500 210,455 310,470 410,410 510,430 610,365 710,390 760,345" fill="none" stroke="#4f72d8" stroke-width="6"/>
+<line x1="110" y1="510" x2="760" y2="510" stroke="#dbe4ef" stroke-width="2"/>
+<rect x="820" y="300" width="310" height="250" rx="18" fill="#f1f5f9"/>
+<text x="850" y="340" fill="#172033" font-family="Arial" font-size="18" font-weight="700">Dashboard Focus</text>
+<text x="850" y="382" fill="#64748b" font-family="Arial" font-size="15">• Financial trends</text>
+<text x="850" y="414" fill="#64748b" font-family="Arial" font-size="15">• KPI analysis</text>
+<text x="850" y="446" fill="#64748b" font-family="Arial" font-size="15">• Interactive visuals</text>
+<text x="850" y="478" fill="#64748b" font-family="Arial" font-size="15">• Data-driven insights</text>
+</svg>

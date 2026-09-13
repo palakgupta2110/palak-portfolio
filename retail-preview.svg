@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650">
+<rect width="1200" height="650" rx="28" fill="#0f172a"/>
+<rect x="34" y="34" width="1132" height="582" rx="22" fill="#f8fafc"/>
+<text x="70" y="92" fill="#172033" font-family="Arial" font-size="30" font-weight="700">Retail Sales Intelligence Dashboard</text>
+<text x="70" y="124" fill="#64748b" font-family="Arial" font-size="16">Python • Data Analysis • Visualization</text>
+<g font-family="Arial">
+<rect x="70" y="165" width="250" height="100" rx="16" fill="#e9eefb"/><text x="92" y="198" fill="#64748b" font-size="14">TOTAL SALES</text><text x="92" y="238" fill="#172033" font-size="28" font-weight="700">₹ 1.2M</text>
+<rect x="340" y="165" width="250" height="100" rx="16" fill="#e9eefb"/><text x="362" y="198" fill="#64748b" font-size="14">ORDERS</text><text x="362" y="238" fill="#172033" font-size="28" font-weight="700">8,420</text>
+<rect x="610" y="165" width="250" height="100" rx="16" fill="#e9eefb"/><text x="632" y="198" fill="#64748b" font-size="14">AVG. ORDER</text><text x="632" y="238" fill="#172033" font-size="28" font-weight="700">₹ 142</text>
+</g>
+<rect x="70" y="300" width="720" height="250" rx="18" fill="#fff" stroke="#dbe4ef"/>
+<text x="96" y="340" fill="#172033" font-family="Arial" font-size="18" font-weight="700">Sales Pattern</text>
+<rect x="120" y="450" width="52" height="70" rx="8" fill="#7891d6"/><rect x="205" y="405" width="52" height="115" rx="8" fill="#7891d6"/><rect x="290" y="430" width="52" height="90" rx="8" fill="#7891d6"/><rect x="375" y="370" width="52" height="150" rx="8" fill="#7891d6"/><rect x="460" y="400" width="52" height="120" rx="8" fill="#7891d6"/><rect x="545" y="350" width="52" height="170" rx="8" fill="#7891d6"/><rect x="630" y="390" width="52" height="130" rx="8" fill="#7891d6"/>
+<rect x="820" y="300" width="310" height="250" rx="18" fill="#f1f5f9"/>
+<text x="850" y="340" fill="#172033" font-family="Arial" font-size="18" font-weight="700">Analysis</text>
+<text x="850" y="382" fill="#64748b" font-family="Arial" font-size="15">• Sales trends</text>
+<text x="850" y="414" fill="#64748b" font-family="Arial" font-size="15">• Product performance</text>
+<text x="850" y="446" fill="#64748b" font-family="Arial" font-size="15">• Customer insights</text>
+<text x="850" y="478" fill="#64748b" font-family="Arial" font-size="15">• Visual reporting</text>
+</svg>
