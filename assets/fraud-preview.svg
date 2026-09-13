@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650">
+<rect width="1200" height="650" rx="28" fill="#0b1020"/>
+<rect x="34" y="34" width="1132" height="582" rx="22" fill="#11182b" stroke="#27365a"/>
+<text x="70" y="92" fill="#f8fafc" font-family="Arial" font-size="30" font-weight="700">Credit Card Fraud Detection</text>
+<text x="70" y="124" fill="#93a4c7" font-family="Arial" font-size="16">Machine Learning • Streamlit • Classification</text>
+<g>
+<rect x="70" y="165" width="240" height="105" rx="16" fill="#17223b"/><text x="92" y="198" fill="#9fb2d8" font-family="Arial" font-size="14">TRANSACTIONS</text><text x="92" y="242" fill="#fff" font-family="Arial" font-size="28" font-weight="700">284,807</text>
+<rect x="330" y="165" width="240" height="105" rx="16" fill="#17223b"/><text x="352" y="198" fill="#9fb2d8" font-family="Arial" font-size="14">FRAUD CASES</text><text x="352" y="242" fill="#fff" font-family="Arial" font-size="28" font-weight="700">492</text>
+<rect x="590" y="165" width="240" height="105" rx="16" fill="#17223b"/><text x="612" y="198" fill="#9fb2d8" font-family="Arial" font-size="14">MODELS</text><text x="612" y="242" fill="#fff" font-family="Arial" font-size="28" font-weight="700">3</text>
+</g>
+<rect x="70" y="310" width="760" height="245" rx="18" fill="#0d1425" stroke="#243452"/>
+<text x="96" y="350" fill="#dce6fb" font-family="Arial" font-size="18" font-weight="700">Transaction Class Distribution</text>
+<rect x="110" y="415" width="570" height="44" rx="10" fill="#31466e"/><rect x="110" y="415" width="567" height="44" rx="10" fill="#5b8def"/>
+<text x="110" y="492" fill="#9fb2d8" font-family="Arial" font-size="15">Legitimate</text><text x="580" y="492" fill="#9fb2d8" font-family="Arial" font-size="15">99.83%</text>
+<rect x="110" y="515" width="6" height="24" rx="3" fill="#f38ba8"/><text x="128" y="534" fill="#9fb2d8" font-family="Arial" font-size="15">Fraudulent • 0.17%</text>
+<rect x="860" y="310" width="270" height="245" rx="18" fill="#0d1425" stroke="#243452"/>
+<text x="888" y="350" fill="#dce6fb" font-family="Arial" font-size="18" font-weight="700">Prediction</text>
+<circle cx="995" cy="438" r="62" fill="#17233e" stroke="#5b8def" stroke-width="8"/>
+<text x="954" y="448" fill="#fff" font-family="Arial" font-size="23" font-weight="700">ML</text>
+<text x="905" y="510" fill="#9fb2d8" font-family="Arial" font-size="14">Train • Evaluate • Predict</text>
+</svg>
